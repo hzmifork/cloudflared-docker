@@ -11,11 +11,11 @@ variable "MULTI_PLATFORM" {
 }
 
 variable "GOVERSION" {
-    default = "1.24.7"
+    default = "1.25.6"
 }
 
 variable "ALPINEVERSION" {
-    default = "3.22"
+    default = "3.23"
 }
 
 target "default" {
