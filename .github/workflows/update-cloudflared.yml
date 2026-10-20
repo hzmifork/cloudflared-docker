@@ -20,7 +20,7 @@ env:
   BRANCH: update-cloudflared
   BOT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
   # How long a passing update waits for objections before it's merged
-  GRACE_HOURS: 24
+  GRACE_HOURS: 0
 
 jobs:
   merge:
